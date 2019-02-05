@@ -36,7 +36,13 @@ img {
   color:white;
 }
 
-.white-background {
-  background-color: white;
+#highlight{
+  padding:20px;
+  text-align: center;
+}
+
+.highlight {
+  background-color: yellow;
+  border: red solid 2px;
   color: black;
 }

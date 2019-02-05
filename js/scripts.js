@@ -30,4 +30,8 @@ $(document).ready(function() {
   $("#button").click(function() {
     $("body").toggleClass("black-background")
   });
+
+  $("#highlight").click(function() {
+    $("#highlight").toggleClass("highlight")
+  });
 });
