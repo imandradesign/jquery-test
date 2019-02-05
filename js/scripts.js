@@ -7,4 +7,8 @@ $(document).ready(function() {
   $("#fadeclick").click(function() {
     $("#fadein").fadeIn();
   });
+
+  $("#slideclick").click(function() {
+    $("#slideup").slideToggle();
+  });
 });

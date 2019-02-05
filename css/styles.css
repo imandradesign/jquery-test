@@ -11,7 +11,7 @@ img {
   text-decoration: underline;
 }
 
-#fadein {
+#fadein, #slideup {
   display:none;
 }
 
